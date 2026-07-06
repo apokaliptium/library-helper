@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "forge-std": "github:foundry-rs/forge-std#v1.9.7",
-    "prettier": "^3.5",
+    "prettier": "^3.9",
     "solhint": "^6.2"
   },
   "keywords": [
